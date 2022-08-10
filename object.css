@@ -7,6 +7,7 @@ body{
      background: url(/quotebackground.webp);
      background-size: cover;   
 }
+/* Style the main container */
 .container{
      width: 50%; 
      height: 350px;
@@ -23,6 +24,7 @@ body{
     margin-bottom: 10px;
     color: rgb(111, 40, 103);
 }
+/* style the button next for quote */
 .buttonContainer{
      display: flex;
      justify-content: center;
@@ -41,6 +43,7 @@ body{
     background-color: rgb(185, 80, 80);
     color: white;
 }
+/* style the quote and author */
 #quotecontainer{
      width: 90%; 
     height: 150px;
@@ -66,3 +69,5 @@ body{
     font-weight: bold;
     color: brown;
 }
+
+
